@@ -9,8 +9,9 @@ import java.util.List;
  * (c) 2014-2017 Mobile Strategy Partners LLC. All Rights Reserved.
  * <p>
  * Representation for the Applicant Details with count
+ * This is data object to hold the details of an applicant
  *
- * @author Moulya Pradeep
+ * @author Moulya Bangalore Pradeep
  * @since Jan/13/2021
  */
 public class ApplicantDetails {
